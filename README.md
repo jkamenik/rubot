@@ -1,0 +1,4 @@
+rubot
+=====
+
+A Hubot clone
