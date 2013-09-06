@@ -1,1 +1,9 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee", "shipit.coffee",
+"abstract.coffee","achievement_unlocked.coffee","ackbar.coffee","adult.coffee","advice.coffee",
+"alot.coffee","applause.coffee","ascii.coffee","availability.coffee",
+"bang-bang.coffee","base64.coffee","brb.coffee","coin.coffee",
+"countdown.coffee","cowsay.coffee","dice.coffee","directions.coffee","eardropping.coffee",
+"emoji.coffee","gemwhois.coffee","geocodeme.coffee","github-activity.coffee","github-status",
+"google.coffee","hashing.coffee","heroku-status.coffee","http-info.coffee","isup.coffee","keep-alive.coffee",
+"pgsql.coffee","pivotal.coffee","plusplus.coffee","ruby.coffee","ruby_rules.coffee","rubygems.coffee","stagehand.coffee",
+"wikipedia.coffee","zendesk.coffee"]
