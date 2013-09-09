@@ -4,6 +4,6 @@
 "bang-bang.coffee","base64.coffee","brb.coffee","coin.coffee",
 "countdown.coffee","cowsay.coffee","dice.coffee","directions.coffee","eardropping.coffee",
 "emoji.coffee","gemwhois.coffee","geocodeme.coffee","github-activity.coffee","github-status",
-"google.coffee","hashing.coffee","heroku-status.coffee","http-info.coffee","isup.coffee","keep-alive.coffee",
+"google.coffee","hashing.coffee","heroku-status.coffee","isup.coffee","keep-alive.coffee",
 "pgsql.coffee","pivotal.coffee","plusplus.coffee","ruby.coffee","ruby_rules.coffee","rubygems.coffee","stagehand.coffee",
 "wikipedia.coffee","zendesk.coffee"]
